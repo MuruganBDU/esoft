@@ -1,0 +1,5 @@
+D:\Acer Official\TESTING\2015\SoftCollection\SoftCollection.Data\bin\Debug\SoftCollection.Data.dll
+D:\Acer Official\TESTING\2015\SoftCollection\SoftCollection.Data\bin\Debug\SoftCollection.Data.pdb
+D:\Acer Official\TESTING\2015\SoftCollection\SoftCollection.Data\obj\Debug\SoftCollection.Data.dll
+D:\Acer Official\TESTING\2015\SoftCollection\SoftCollection.Data\obj\Debug\SoftCollection.Data.pdb
+D:\Acer Official\TESTING\2015\SoftCollection\SoftCollection.Data\obj\Debug\SoftCollection.Data.csprojResolveAssemblyReference.cache

@@ -1,0 +1,14 @@
+D:\Acer Official\TESTING\2015\SoftCollection\SoftCollection.Repository\bin\Release\SoftCollection.Repository.dll.config
+D:\Acer Official\TESTING\2015\SoftCollection\SoftCollection.Repository\bin\Release\SoftCollection.Repository.dll
+D:\Acer Official\TESTING\2015\SoftCollection\SoftCollection.Repository\bin\Release\SoftCollection.Repository.pdb
+D:\Acer Official\TESTING\2015\SoftCollection\SoftCollection.Repository\bin\Release\EntityFramework.dll
+D:\Acer Official\TESTING\2015\SoftCollection\SoftCollection.Repository\bin\Release\EntityFramework.SqlServer.dll
+D:\Acer Official\TESTING\2015\SoftCollection\SoftCollection.Repository\bin\Release\SoftCollection.Data.dll
+D:\Acer Official\TESTING\2015\SoftCollection\SoftCollection.Repository\bin\Release\SoftCollection.RepositoryInterface.dll
+D:\Acer Official\TESTING\2015\SoftCollection\SoftCollection.Repository\bin\Release\SoftCollection.Data.pdb
+D:\Acer Official\TESTING\2015\SoftCollection\SoftCollection.Repository\bin\Release\SoftCollection.RepositoryInterface.pdb
+D:\Acer Official\TESTING\2015\SoftCollection\SoftCollection.Repository\bin\Release\EntityFramework.xml
+D:\Acer Official\TESTING\2015\SoftCollection\SoftCollection.Repository\bin\Release\EntityFramework.SqlServer.xml
+D:\Acer Official\TESTING\2015\SoftCollection\SoftCollection.Repository\obj\Release\SoftCollection.Repository.csprojResolveAssemblyReference.cache
+D:\Acer Official\TESTING\2015\SoftCollection\SoftCollection.Repository\obj\Release\SoftCollection.Repository.dll
+D:\Acer Official\TESTING\2015\SoftCollection\SoftCollection.Repository\obj\Release\SoftCollection.Repository.pdb

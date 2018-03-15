@@ -1,0 +1,7 @@
+D:\Acer Official\TESTING\2015\SoftCollection\SoftCollection.ServiceInterface\bin\Debug\SoftCollection.ServiceInterface.dll
+D:\Acer Official\TESTING\2015\SoftCollection\SoftCollection.ServiceInterface\bin\Debug\SoftCollection.ServiceInterface.pdb
+D:\Acer Official\TESTING\2015\SoftCollection\SoftCollection.ServiceInterface\bin\Debug\SoftCollection.Data.dll
+D:\Acer Official\TESTING\2015\SoftCollection\SoftCollection.ServiceInterface\bin\Debug\SoftCollection.Data.pdb
+D:\Acer Official\TESTING\2015\SoftCollection\SoftCollection.ServiceInterface\obj\Debug\SoftCollection.ServiceInterface.csprojResolveAssemblyReference.cache
+D:\Acer Official\TESTING\2015\SoftCollection\SoftCollection.ServiceInterface\obj\Debug\SoftCollection.ServiceInterface.dll
+D:\Acer Official\TESTING\2015\SoftCollection\SoftCollection.ServiceInterface\obj\Debug\SoftCollection.ServiceInterface.pdb

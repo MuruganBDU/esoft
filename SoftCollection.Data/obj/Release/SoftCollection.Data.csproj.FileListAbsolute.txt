@@ -1,0 +1,4 @@
+D:\Acer Official\TESTING\2015\SoftCollection\SoftCollection.Data\bin\Release\SoftCollection.Data.dll
+D:\Acer Official\TESTING\2015\SoftCollection\SoftCollection.Data\bin\Release\SoftCollection.Data.pdb
+D:\Acer Official\TESTING\2015\SoftCollection\SoftCollection.Data\obj\Release\SoftCollection.Data.dll
+D:\Acer Official\TESTING\2015\SoftCollection\SoftCollection.Data\obj\Release\SoftCollection.Data.pdb
